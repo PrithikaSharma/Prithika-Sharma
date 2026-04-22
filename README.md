@@ -1,5 +1,6 @@
 # Prithika-Sharma
-Certified Data Analyst | Python, SQL, Power BI | Tax Analyst | Open to Opportunities 
+##Certified Data Analyst | Python, SQL, Power BI | Tax Analyst | Open to Opportunities 
+
 Hi, I’m Prithika Sharma — a data analyst with a strong foundation in Python, SQL, Excel, and Power BI. My passion lies in transforming raw datasets into meaningful insights that drive smarter business decisions.
 
 🎓 I hold an M.Com in Banking, Finance & Insurance and a BBM in Marketing, which gives me a unique blend of analytical and business acumen.
